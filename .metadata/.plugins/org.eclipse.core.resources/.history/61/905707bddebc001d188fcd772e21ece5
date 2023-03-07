@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package com.sharad.learn.restwebservices.currencyconversionservice.config;
+
+/**
+ * @author XY57013
+ *
+ */
+public class RestTempleteConfig {
+
+}
