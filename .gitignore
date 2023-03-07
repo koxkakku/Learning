@@ -36,3 +36,11 @@
 .metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps
 .metadata/.plugins/org.eclipse.m2e.core/workspaceState.ser
 .metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties
+/api-gateway/.mvn
+/basic-rest/.mvn
+/currency-conversion-service/.mvn
+/currency-exchange-service/.mvn
+/custom-api-gateway/.mvn
+/limits-service/.mvn
+/naming-registry-service/.mvn
+/spring-cloud-config-server
