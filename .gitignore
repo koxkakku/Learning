@@ -44,3 +44,4 @@
 /limits-service/.mvn
 /naming-registry-service/.mvn
 /spring-cloud-config-server
+/.metadata
