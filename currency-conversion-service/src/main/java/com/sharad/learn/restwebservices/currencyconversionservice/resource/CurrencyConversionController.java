@@ -19,7 +19,7 @@ import org.springframework.web.client.RestTemplate;
 import com.sharad.learn.restwebservices.currencyconversionservice.rbean.CurrencyConversionBean;
 
 /**
- * @author XY57013
+ * @author koxkakku
  *
  */
 @RestController

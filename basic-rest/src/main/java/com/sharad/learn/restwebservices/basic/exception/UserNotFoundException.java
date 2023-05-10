@@ -7,7 +7,7 @@ import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;
 
 /**
- * @author XY57013
+ * @author koxkakku
  *
  */
 @ResponseStatus(code = HttpStatus.NOT_FOUND )

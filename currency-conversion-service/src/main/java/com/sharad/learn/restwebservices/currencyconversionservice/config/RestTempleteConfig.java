@@ -9,7 +9,7 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.web.client.RestTemplate;
 
 /**
- * @author XY57013
+ * @author koxkakku
  *
  */
 @Configuration

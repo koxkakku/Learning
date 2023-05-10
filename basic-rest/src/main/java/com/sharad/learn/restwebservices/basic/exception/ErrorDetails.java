@@ -6,7 +6,7 @@ package com.sharad.learn.restwebservices.basic.exception;
 import java.time.LocalDateTime;
 
 /**
- * @author XY57013
+ * @author koxkakku
  *
  */
 public class ErrorDetails {

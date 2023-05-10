@@ -4,7 +4,7 @@
 package com.sharad.learn.restwebservices.basic.versioning;
 
 /**
- * @author XY57013
+ * @author koxkakku
  *
  */
 public class PersonV1 {

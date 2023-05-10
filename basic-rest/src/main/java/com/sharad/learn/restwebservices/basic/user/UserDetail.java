@@ -18,7 +18,7 @@ import jakarta.validation.constraints.Past;
 import jakarta.validation.constraints.Size;
 
 /**
- * @author XY57013
+ * @author koxkakku
  *
  */
 @Entity(name = "user_detail")

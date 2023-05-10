@@ -11,7 +11,7 @@ import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.Id;
 
 /**
- * @author XY57013
+ * @author koxkakku
  *
  */
 @Entity(name = "EXCHANGE_VALUE")

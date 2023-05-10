@@ -9,7 +9,7 @@ import jakarta.validation.constraints.Past;
 import jakarta.validation.constraints.Size;
 
 /**
- * @author XY57013
+ * @author koxkakku
  *
  */
 public class User {

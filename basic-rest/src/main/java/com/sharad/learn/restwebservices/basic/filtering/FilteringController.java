@@ -15,7 +15,7 @@ import com.fasterxml.jackson.databind.ser.impl.SimpleBeanPropertyFilter;
 import com.fasterxml.jackson.databind.ser.impl.SimpleFilterProvider;
 
 /**
- * @author XY57013
+ * @author koxkakku
  *
  */
 @RestController

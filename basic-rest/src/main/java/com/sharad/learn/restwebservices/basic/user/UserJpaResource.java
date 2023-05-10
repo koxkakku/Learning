@@ -27,7 +27,7 @@ import com.sharad.learn.restwebservices.basic.jpa.UserDetailsRepository;
 import jakarta.validation.Valid;
 
 /**
- * @author XY57013
+ * @author koxkakku
  *
  */
 @RestController

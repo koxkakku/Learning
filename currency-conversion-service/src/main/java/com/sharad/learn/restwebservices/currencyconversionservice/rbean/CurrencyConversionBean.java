@@ -6,7 +6,7 @@ package com.sharad.learn.restwebservices.currencyconversionservice.rbean;
 import java.math.BigDecimal;
 
 /**
- * @author XY57013
+ * @author koxkakku
  *
  */
 public class CurrencyConversionBean {

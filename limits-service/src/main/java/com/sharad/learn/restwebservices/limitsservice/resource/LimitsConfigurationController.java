@@ -11,7 +11,7 @@ import com.sharad.learn.restwebservices.limitsservice.PropertyConfiguration;
 import com.sharad.learn.restwebservices.limitsservice.bean.LimitConfiguration;
 
 /**
- * @author XY57013
+ * @author koxkakku
  *
  */
 @RestController

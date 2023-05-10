@@ -16,7 +16,7 @@ import io.github.resilience4j.ratelimiter.annotation.RateLimiter;
 import io.github.resilience4j.retry.annotation.Retry;
 
 /**
- * @author XY57013
+ * @author koxkakku
  *
  */
 @RestController

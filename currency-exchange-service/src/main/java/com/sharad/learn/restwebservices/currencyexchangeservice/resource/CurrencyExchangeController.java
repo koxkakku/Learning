@@ -17,7 +17,7 @@ import com.sharad.learn.restwebservices.currencyexchangeservice.bean.ExchangeVal
 import com.sharad.learn.restwebservices.currencyexchangeservice.repo.ExchangeValueRepo;
 
 /**
- * @author XY57013
+ * @author koxkakku
  *
  */
 @RestController

@@ -4,7 +4,7 @@
 package com.sharad.learn.restwebservices.limitsservice.bean;
 
 /**
- * @author XY57013
+ * @author koxkakku
  *
  */
 public class LimitConfiguration {

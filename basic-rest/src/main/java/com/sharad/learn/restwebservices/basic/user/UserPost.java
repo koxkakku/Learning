@@ -14,7 +14,7 @@ import jakarta.persistence.ManyToOne;
 import jakarta.validation.constraints.Size;
 
 /**
- * @author XY57013
+ * @author koxkakku
  *
  */
 @Entity(name= "user_post")

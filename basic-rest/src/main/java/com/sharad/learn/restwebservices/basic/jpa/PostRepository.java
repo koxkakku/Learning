@@ -9,7 +9,7 @@ import org.springframework.data.repository.query.Param;
 import com.sharad.learn.restwebservices.basic.user.UserPost;
 
 /**
- * @author XY57013
+ * @author koxkakku
  *
  */
 public interface PostRepository extends JpaRepository<UserPost, Integer> {
